@@ -11,13 +11,13 @@ body {
 
 /* Nav */
 
-.nav {
+/* .nav {
   background-color: rgba(22, 22, 22, 0.8);
   display: flex;
   justify-content: center;
-}
+} */
 
-.link {
+/* .link {
   color: #efefef;
   display: inline-block;
   padding: 3px 20px;
@@ -29,7 +29,7 @@ body {
 .link:hover {
   color: #f59494;
   transform: scale(1.1);
-}
+} */
 
 /* /_ nasa photo ---------- _/ */
 
@@ -80,7 +80,7 @@ body {
   justify-content: center;
 }
 
-.home-link {
+/* .home-link {
   font-size: 40px;
   background: #f59494;
   display: inline-block;
@@ -95,4 +95,4 @@ body {
 .home-link:hover {
   border-radius: 5px;
   background: #e77171;
-}
+} */
